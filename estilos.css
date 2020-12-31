@@ -1,0 +1,16 @@
+.productos {
+    color:whitesmoke!important ;
+    background-color:#252932ec !important;
+    border: none!important;
+  }
+  .sticky-top{
+
+  }
+  header{
+      background-color: tomato;
+  }
+  #div1 {
+    overflow:scroll;
+    height:200px;
+    width:500px;
+}
